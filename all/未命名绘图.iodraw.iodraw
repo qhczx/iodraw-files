@@ -25,8 +25,8 @@
         <mxCell id="WeFVLvVKz1mKd-pjCE29-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeFVLvVKz1mKd-pjCE29-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="460" width="60" height="30" as="geometry" />
+        <mxCell id="WeFVLvVKz1mKd-pjCE29-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;网络搭建层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
