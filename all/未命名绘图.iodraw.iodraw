@@ -7,7 +7,7 @@
         <mxCell id="WeFVLvVKz1mKd-pjCE29-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="700" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="WeFVLvVKz1mKd-pjCE29-2" value="torch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WeFVLvVKz1mKd-pjCE29-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;torch&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
