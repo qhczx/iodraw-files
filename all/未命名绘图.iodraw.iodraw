@@ -79,8 +79,11 @@
         <mxCell id="WeFVLvVKz1mKd-pjCE29-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Prameter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="595" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WeFVLvVKz1mKd-pjCE29-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WeFVLvVKz1mKd-pjCE29-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="390" y="500" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WeFVLvVKz1mKd-pjCE29-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
