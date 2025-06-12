@@ -88,7 +88,7 @@
         <mxCell id="WeFVLvVKz1mKd-pjCE29-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="530" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WeFVLvVKz1mKd-pjCE29-30" value="Moudle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WeFVLvVKz1mKd-pjCE29-30" value="Module/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
