@@ -25,17 +25,17 @@
         <mxCell id="G9XyLp2WeEillqjuZjb3-14" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#ffff88;strokeColor=#EEF604;" vertex="1" parent="1">
           <mxGeometry x="610" y="70" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="G9XyLp2WeEillqjuZjb3-15" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="120" width="160" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="G9XyLp2WeEillqjuZjb3-16" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#EEF604;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=#ffff88;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="405" y="45" width="10" height="160" as="geometry" />
+          <mxGeometry x="600" y="70" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="G9XyLp2WeEillqjuZjb3-17" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#EEF604;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="610" y="130" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="G9XyLp2WeEillqjuZjb3-18" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#EEF604;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=#ffff88;direction=south;" vertex="1" parent="1">
           <mxGeometry x="660" y="70" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9XyLp2WeEillqjuZjb3-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="190" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
