@@ -121,8 +121,8 @@
             <mxPoint x="840" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9XyLp2WeEillqjuZjb3-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=41;" vertex="1" parent="1">
-          <mxGeometry x="910" y="190" width="30" height="40" as="geometry" />
+        <mxCell id="G9XyLp2WeEillqjuZjb3-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="900" y="215" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
