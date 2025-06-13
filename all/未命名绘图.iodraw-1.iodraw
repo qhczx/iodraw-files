@@ -233,7 +233,10 @@
           <mxGeometry x="60" y="375" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G9XyLp2WeEillqjuZjb3-90" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="225" width="28" height="18" as="geometry" />
+          <mxGeometry x="30" y="222" width="28" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="G9XyLp2WeEillqjuZjb3-91" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;池化层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="345" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
