@@ -34,7 +34,7 @@
         <mxCell id="G9XyLp2WeEillqjuZjb3-18" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#EEF604;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=#ffff88;direction=south;" vertex="1" parent="1">
           <mxGeometry x="660" y="70" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9XyLp2WeEillqjuZjb3-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+        <mxCell id="G9XyLp2WeEillqjuZjb3-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;opacity=0;strokeWidth=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
