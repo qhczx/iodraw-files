@@ -34,10 +34,10 @@
         <mxCell id="G9XyLp2WeEillqjuZjb3-18" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#EEF604;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=#ffff88;direction=south;" vertex="1" parent="1">
           <mxGeometry x="660" y="70" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9XyLp2WeEillqjuZjb3-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;strokeColor=#EEF604;" vertex="1" parent="1">
+        <mxCell id="G9XyLp2WeEillqjuZjb3-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;strokeColor=#EEF604;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9XyLp2WeEillqjuZjb3-22" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;strokeColor=#EEF604;" vertex="1" parent="1">
+        <mxCell id="G9XyLp2WeEillqjuZjb3-22" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;strokeColor=#EEF604;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
