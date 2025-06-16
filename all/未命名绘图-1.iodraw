@@ -103,10 +103,10 @@
         <mxCell id="OZxiK99pc76yI1JLQLHo-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="817" y="230" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OZxiK99pc76yI1JLQLHo-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OZxiK99pc76yI1JLQLHo-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OZxiK99pc76yI1JLQLHo-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="350" as="sourcePoint" />
-            <mxPoint x="760" y="300" as="targetPoint" />
+            <mxPoint x="760" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
