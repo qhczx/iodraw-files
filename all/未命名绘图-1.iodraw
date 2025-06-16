@@ -122,7 +122,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OZxiK99pc76yI1JLQLHo-42" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="80" height="120" as="geometry" />
+          <mxGeometry x="970" y="230" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OZxiK99pc76yI1JLQLHo-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="970" y="250" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
