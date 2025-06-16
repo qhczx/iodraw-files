@@ -143,7 +143,10 @@
           <mxGeometry x="1020" y="250" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZxiK99pc76yI1JLQLHo-51" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZxiK99pc76yI1JLQLHo-52" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="980" y="240" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
