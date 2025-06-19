@@ -30,20 +30,14 @@
         </mxCell>
         <mxCell id="JU4Lg7IwRtDm3dBzeIdN-27" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.425;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="208" as="sourcePoint" />
-            <mxPoint x="176" y="54" as="targetPoint" />
+            <mxPoint x="160" y="213.46" as="sourcePoint" />
+            <mxPoint x="176" y="59.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JU4Lg7IwRtDm3dBzeIdN-28" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.843;exitY=0.334;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.349;entryY=0.845;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="185" y="205" as="sourcePoint" />
             <mxPoint x="200" y="52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JU4Lg7IwRtDm3dBzeIdN-29" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.755;exitY=0.266;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.271;entryY=0.764;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209" y="199" as="sourcePoint" />
-            <mxPoint x="224" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
